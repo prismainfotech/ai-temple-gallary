@@ -3,4 +3,80 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e270235e-2a81-459f-9385-7409a4d96034" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/img_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_022.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/prismainfotech/ai-temple-gallary.git",
+    "accountId": "74d81a57-5aff-4456-a117-d8a914db1faf"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3BfoiheBUO4riEwovWZunHIAhDU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/nikhil/Downloads/Images",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e270235e-2a81-459f-9385-7409a4d96034" name="Changes" comment="" />
+      <created>1774889614231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774889614231</updated>
+    </task>
+    <servers />
+  </component>
 </project>
